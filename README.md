@@ -7,7 +7,7 @@
 curl -O https://raw.githubusercontent.com/your-repo/install-docker.sh
 
 # 或者直接运行
-bash <(curl -sSL https://raw.githubusercontent.com/your-repo/install-docker.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/lgdglgc/Docker-Docker-compose/install-docker.sh)
 
 # 或者直接运行
 bash <(curl -sSL https://raw.githubusercontent.com/your-repo/install-docker.sh)
